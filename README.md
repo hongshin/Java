@@ -1,8 +1,8 @@
 ## Java Programming: Elements of Problem Solving and Software Design #
 
-### Class information ###
+### Class Information ###
 * Meetings: **Tue** 10AM-11:15AM (1.5h) & **Fri** 9AM-11:15AM (2.5h) in NTH 412
-	* TA Help hour (optional): Thur 8PM-9PM in OH 316 (aka. Coding Space)
+	* TA Help Hour (optional): Thur 8PM-9PM in OH 316 (aka. Coding Space)
 * Instructor: Shin Hong https://hongshin.github.io :email: hongshin@handong.edu
 * Teaching assistant: Sinae Kim :email: 21400125@handong.edu
 * Policies: [POLICY.md](POLICY.md)
