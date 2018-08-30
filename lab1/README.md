@@ -38,6 +38,12 @@ Lab1. Hello, Java World!
 1. [HelloPaint.java](HelloPaint.java)
 
 ### Compiling and Executing Java Programs ###
+1. Launch a shell (e.g., Bash, Powershell of Windows)
+2. Move to a directory where the source file is located
+3. For a Java source file `ClassName.java`, give the compliation command `javac ClassName.java`
+  - If succeeded, `ClassName.class` will be created as the result
+4. Execute the compiled program by giving a command `java ClassName`
+  - If the program has a package name `X.Y.Z`, place `ClassName.class` at `X/Y/Z`. And then, command `java X.Y.Z.ClassName`
 
 ### Classwork Description ###
 * Mission: [cw1.pdf](cw1.pdf)
