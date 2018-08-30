@@ -1,0 +1,15 @@
+Kim 1
+Lee 3
+Park 2
+Cho 1
+Yi 2
+Sung 2
+Nam 1
+Choi 3
+Hwang 1
+Hong 2
+Ahn 2
+Yong 3
+Han 1
+Jang 2
+Jo 2
