@@ -32,7 +32,7 @@ Lab1. Hello, Java World!
 1. [Hello.java](Hello.java)
 1. [HelloCLA.java](HelloCLA.java)
 1. [HelloStdIn.java](HelloStdIn.java)
-1. [HelloFIN.java](HelloFIN.java)
+1. [HelloFileIn.java](HelloFileIn.java)
 1. [HelloMultiplejava](HelloMultiple.java)
 1. [HelloGUI.java](HelloGUI.java)
 1. [HelloPaint.java](HelloPaint.java)
