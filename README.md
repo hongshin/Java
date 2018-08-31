@@ -25,8 +25,9 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Hisnet](http://hisnet.handong.edu) for online attendance check & homework submission
 * This webpage for lecture notes, resources for assignments, etc.
 
-#### Lecture Notes ####
+#### Meeting Notes ####
 * [Course overview and policies (Aug 28)](notes/syllabus.pdf)
+* [Lab1. Hello, Java World! (Aug 31)](lab1/README.md)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
