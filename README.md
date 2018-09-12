@@ -17,7 +17,7 @@ This course is designed for novice Java programmers to equip fluency in reading 
 
 ### Learning Materials ###
 #### Main Textbook ####
-[**Java: An Introduction to Problem Solving and Programming, 7th Edition**](https://www.amazon.com/Java-Introduction-Problem-Solving-Programming/dp/0133766268/), authored by *Walter Savitch*     
+[**Java: An Introduction to Problem Solving and Programming, 7th Edition**](https://www.amazon.com/Java-Introduction-Problem-Solving-Programming/dp/0133766268/) (JIPP), authored by *Walter Savitch*     
 You can find this book at Handong Books which is on campus.  It is **mandatory** for each student to equip this book: it will be assumed that each student has a textbook in lab sessions, reading assignments, homework, practice, etc.
 
 #### Online Channels ####
@@ -28,7 +28,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 #### Meeting Notes ####
 * [Course overview and policies (Aug 28)](notes/syllabus.pdf)
 * [Lab 1. Hello, Java World! (Aug 31)](lab1/README.md)
-* [(WIP) Basic operation of Java (Sep 4)](notes/Ch2-WIP.pdf)
+* [JIPP:Ch 2. Basic operation of Java (Sep 4, 13)](notes/Ch2.pdf)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
