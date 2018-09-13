@@ -13,10 +13,9 @@ Lab 2. Play Java
 #### Classwork ####
 *  [Description](cw2.pdf)
 *  Files
-  *  [VerseSearch.java](VerseSearch.java)
-  *  [NIV.txt](NIV.txt)
-  *  [DidYouMean.java](DidYouMean.java)
-  *  [wordset.txt](wordset.txt)
+  * M3: [VerseSearch.java](VerseSearch.java) and [NIV.txt](NIV.txt)
+  * M4: [DidYouMean.java](DidYouMean.java) and [wordset.txt](wordset.txt)
 
   ### References ####
-  * Javadoc on `String` of Java 7
+  * Javadoc on `String` of Java 7 [https://docs.oracle.com/javase/7/docs/api/java/lang/String.html](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+  * Tutorials on Java Language Basics [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
