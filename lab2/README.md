@@ -7,7 +7,11 @@ Lab 2. Play Java
 1. [StringOp.java](StringOp.java)
 1. [StringRelation.java](StringRelation.java)
 1. [VerseGetter.java](VerseGetter.java)
+	* This program finds the verse in NIV Holy Bible for a given book name, chapter number and verse number
 1. [CrosswordHelper.java](CrosswordHelper.java)
+	* This program receives a search query Q each character of which is either an alphabet letter or dot (i.e., .).
+	  The program looks up a comprehensive set of words and finds all words such that 
+	  the same alphabet letter appears at an index where Q has the alphabet and any alphabet letter where Q has a dot.
 
 ### Classwork ###
 * [Description](cw2.pdf)
