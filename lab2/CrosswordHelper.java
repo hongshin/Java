@@ -6,7 +6,7 @@ public class CrosswordHelper
 	public static void main(String [] args)
 	{
 		try {
-			Scanner s = new Scanner(new File("words.txt")) ;
+			Scanner s = new Scanner(new File("wordset.txt")) ;
 
 			String key = args[0].toLowerCase() ;
 
