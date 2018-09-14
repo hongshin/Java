@@ -28,7 +28,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 #### Meeting Notes ####
 * [Course overview and policies (Aug 28)](notes/syllabus.pdf)
 * [Lab 1. Hello, Java World! (Aug 31)](lab1/README.md)
-* [JIPP:Ch 2. Basic operation of Java (Sep 4, 13)](notes/Ch2.pdf)
+* [JIPP:Ch 2. Basic operation of Java (Sep 4, 11)](notes/Ch2.pdf)
+* [Lab 2. Play String (Setp 14)](lab1/README.md)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
