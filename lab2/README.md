@@ -9,9 +9,10 @@ Lab 2. Play Java
 1. [VerseGetter.java](VerseGetter.java)
 	* This program finds the verse in NIV Holy Bible for a given book name, chapter number and verse number
 1. [CrosswordHelper.java](CrosswordHelper.java)
-	* This program receives a search query Q each character of which is either an alphabet letter or dot (i.e., .).
-	  The program looks up a comprehensive set of words and finds all words such that 
-	  the same alphabet letter appears at an index where Q has the alphabet and any alphabet letter where Q has a dot.
+	* This program receives a search query each character of which is either an alphabet letter or dot.
+	  Looking up `wordset.txt`, the program finds a word correponding to the query: for indicies with
+	  alphabet letters, the word should have the same letters and for indicies with dots, the word can
+	  have any letter.
 
 ### Classwork ###
 * [Description](cw2.pdf)
