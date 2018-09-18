@@ -11,14 +11,12 @@ public class VerseGetter
 		}
 
 		try {
-			Scanner s = new Scanner(new File("NIV.txt")) ;
-
 			String prefix = args[0] + " " + args[1] + ":" + args[2] ;
-
+			Scanner s = new Scanner(new File("NIV.txt")) ;
 			while (s.hasNext()) {
 				String l = s.nextLine() ;
 				if (l.startsWith(prefix)) {
-					System.out.println(l.substring(prefix.length()) + 1) ;
+					System.out.println(l.substring(prefix.length() + 1)) ;
 					break ;
 				}
 			}
