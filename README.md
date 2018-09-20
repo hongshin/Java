@@ -30,8 +30,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Lab 1. Hello, Java World! (Aug 31)](lab1/README.md)
 * [JIPP:Ch. 2. Basic operation of Java (Sep 4, 11)](notes/Ch2.pdf)
 * [Lab 2. Play String (Sep 14, Sep 18)](lab2/README.md)
-* [JIPP:Ch. 3 & 4. Programming Control Flow](notes/control-flow.pdf)
-* [Lab 3. Take Control (Step 21)](lab3/README.md)
+* [JIPP:Ch. 3 & 4. Programming Control Flow (Sep 21)](notes/control-flow.pdf)
+* [Lab 3. Take Control (Sep 21)](lab3/README.md)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
