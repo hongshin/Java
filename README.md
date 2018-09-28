@@ -8,7 +8,7 @@
 * Policies: [POLICY.md](POLICY.md)
 
 ### Course Objectives ###
-Having *Java* as a learning material, this course aims to give essential knowledge and programming experiences to beginner level Computer Science students. 
+Having *Java* as a learning material, this course aims to give essential knowledge and programming experiences to beginner level Computer Science students.
 This course is designed for novice Java programmers to equip fluency in reading and writing Java code. To accomplish the goal, students will have a series of programming labs (usually at Friday meetings). In addition to the programming practices, this course assists students understanding the key concepts in computer science and software design in the context of Java programming (usually at Tuesday meetings). The instructor will leads the class to discussions on the following issues:
 (1) How can we solve a problem by programming, especially with Java
 (2) How can we use programming to build up a software system systematically
@@ -32,11 +32,12 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Lab 2. Play String (Sep 14, Sep 18)](lab2/README.md)
 * [JIPP:Ch. 3 & 4. Programming Control Flow (Sep 21)](notes/control-flow.pdf)
 * [Lab 3. Take Control (Sep 21)](lab3/README.md)
+* [JIPP:Ch. 5. Defining Class (Sep 28)](notes/Ch5.pdf)
+	- Species Examples: [1st](examples/SpeciesFirstVersion.java), [2nd](examples/SpeciesSecondVersion.java), [3rd](examples/SpeciesThirdVersion.java), [4th](examples/SpeciesForthVersion.java), [5th](examples/SpeciesFifthVersion.java)
+* [Lab 4. Take Control 2 (Oct 2)](lab4/README.me)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
 * [*Software Construction*, MIT](http://web.mit.edu/6.005/www/fa15/)
 * [*Introduction to Programming* (with Java), Princeton University](https://introcs.cs.princeton.edu/java/home/)
 * [*Programming Methodology*, Stanford University](http://web.stanford.edu/class/cs106a/)
-
-
