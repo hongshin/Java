@@ -34,7 +34,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Lab 3. Take Control (Sep 21)](lab3/README.md)
 * [JIPP:Ch. 5. Defining Class (Sep 28)](notes/Ch5.pdf)
 	- Species Examples: [1st](examples/SpeciesFirstVersion.java), [2nd](examples/SpeciesSecondVersion.java), [3rd](examples/SpeciesThirdVersion.java), [4th](examples/SpeciesForthVersion.java), [5th](examples/SpeciesFifthVersion.java)
-* [Lab 4. Take Control 2 (Oct 2)](lab4/README.me)
+* [Lab 4. Take Control 2 (Oct 2)](lab4/README.md)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
