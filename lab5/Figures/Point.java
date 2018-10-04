@@ -21,10 +21,10 @@ public class Point
 		int x, y ;
 		double r = a / 360.0 * (Math.PI * 2.0) ;
 
-		x = c.x + (int)((this.x - c.x) * Math.cos(r)) 
-			- (int)((c.y - this.y) * Math.sin(r)) ;
-		y = c.y - (int)((this.x - c.x) * Math.sin(r)) 
-			- (int)((c.y - this.y) * Math.cos(r)) ;
+		x = c.x + (int)((this.x - c.x) * Math.cos(-1.0 * r)) 
+			- (int)((c.y - this.y) * Math.sin(-1.0 * r)) ;
+		y = c.y - (int)((this.x - c.x) * Math.sin(-1.0 * r)) 
+			- (int)((c.y - this.y) * Math.cos(-1.0 * r)) ;
 	
 		if (x < 0 || y < 0)
 			return null ;
