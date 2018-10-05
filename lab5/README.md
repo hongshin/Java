@@ -1,11 +1,12 @@
 Lab 5. Work with Class
 ========
 
-## Polynomial Plotter ##
+## Examples ##
+### Polynomial Plotter ###
 * [Polynomial.java](Polynomial/Polynomial.java)
 * [Expression.java](Polynomial/Expression.java)
 
-## Figures ##
+### Figures ###
 * [Point.java](Figures/Point.java)
 * [Triangle.java](Figures/Triangle.java)
 * [Circle.java](Figures/Circle.java)
