@@ -1,7 +1,7 @@
 Lab 5. Work with Class
 ========
 
-## Polynomial ##
+## Polynomial Plotter ##
 * [Polynomial.java](Polynomial/Polynomial.java)
 * [Expression.java](Polynomial/Expression.java)
 
@@ -12,9 +12,9 @@ Lab 5. Work with Class
 * [SimpleMain.java](Figures/SimpleMain.java)
 * [Main.java](Figures/Main.java)
 
-* References
-	* [Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
-	* [Graphics](https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html)
+## References ##
+* [Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html): Math.pow(), Math.sin(), Math.cos()
+* [Graphics](https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html)
 
 ## Classwork 5 ##
 * [Description](cw5.pdf) 
