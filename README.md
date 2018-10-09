@@ -36,6 +36,9 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- Species Examples: [1st](examples/SpeciesFirstVersion.java), [2nd](examples/SpeciesSecondVersion.java), [3rd](examples/SpeciesThirdVersion.java), [4th](examples/SpeciesForthVersion.java), [5th](examples/SpeciesFifthVersion.java)
 * [Lab 4. Take Control 2 (Oct 2)](lab4/README.md)
 * [Lab 5. Work with Class (Oct 5)](lab5/README.md)
+* StringTokenizer and Hangul Encoding in Java (Oct 9)
+	- StringTokenizer: [javadoc](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html), [example](examples/StrTok.java)
+	- [Hangual Encoding in Java](notes/hangul.pdf)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
