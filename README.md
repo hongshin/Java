@@ -39,6 +39,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * StringTokenizer and Hangul Encoding in Java (Oct 9)
 	- StringTokenizer: [javadoc](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html), [example](examples/StrTok.java)
 	- [Hangual Encoding in Java](notes/hangul.pdf)
+* [JIPP: Ch. 6. More on Objects and Methods](notes/Ch6.pdf)
+* [JIPP: Ch. 7. Array](notes/Ch7.pdf)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
