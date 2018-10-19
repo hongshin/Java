@@ -41,6 +41,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- [Hangual Encoding in Java](notes/hangul.pdf)
 * [JIPP: Ch. 6. More on Objects and Methods](notes/Ch6.pdf)
 * [JIPP: Ch. 7. Array](notes/Ch7.pdf)
+* [Midterm exam (Oct 19)](notes/midterm.md)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
