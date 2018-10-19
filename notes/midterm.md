@@ -46,7 +46,7 @@ public class Expression {
 }
 ```
 
-    Define toString method such that the main method prints the infix version of a prefix arithmetic expression given as a command line argument (12 points). For example, a command and its expected result are as follow:
+  Define toString method such that the main method prints the infix version of a prefix arithmetic expression given as a command line argument (12 points). For example, a command and its expected result are as follow:
 ```
 $ java Expression “(* (+ 2 x) (* x 3))”
 ((2 + x) * (x * 3))
