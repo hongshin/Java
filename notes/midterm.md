@@ -25,7 +25,7 @@ public class Expression {
 			} else {
 				isValue = true ;
 				value = Double.parseDouble(s) ; 
-}
+                        }
 		} else {
 			operator = s.charAt(1) ;
 			int begin = 3, i, level ;
@@ -46,7 +46,7 @@ public class Expression {
 }
 ```
 
-  Define toString method such that the main method prints the infix version of a prefix arithmetic expression given as a command line argument (12 points). For example, a command and its expected result are as follow:
+  Define `toString` method such that the main method prints the infix version of a prefix arithmetic expression given as a command line argument (12 points). For example, a command and its expected result are as follow:
 ```
 $ java Expression “(* (+ 2 x) (* x 3))”
 ((2 + x) * (x * 3))
@@ -57,12 +57,13 @@ $
 
 7. Write down a Java program on the subsequent four pages to answer to the following two sub-problems.
 
-* Write a class StringTokenizer that has the following three interface methods (14 points)
+* Write a class `StringTokenizer` that has the following three interface methods (14 points)
   - `public StringTokenizer(String str, String delim) `  
-     Constructs a string tokenizer for the specified string str. The characters in the delim argument are the delimiters for separating tokens. Delimiter characters themselves will not be treated as tokens. Assume that str is not null and delim is neither null nor an empty string.
+     Constructs a string tokenizer for the specified string `str`. The characters in the `delim` argument are the delimiters for separating tokens. Delimiter characters themselves will not be treated as tokens. Assume that `str` is not null and `delim` is neither null nor an empty string.
 
   - `public boolean hasMoreTokens()`  
-     tests if there are more tokens available from this tokenizer's string. If this method returns true, then a subsequent call to nextToken will return a token
+     tests if there are more tokens available from this tokenizer's string. If this method returns true, 
+     then a subsequent call to `nextToken` will return a token
 
   - `public String nextToken()`  
      returns the next token from this string tokenizer or return null if no token is available.
