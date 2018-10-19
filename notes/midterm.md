@@ -67,8 +67,6 @@ $
   - `public String nextToken()`  
      returns the next token from this string tokenizer or return null if no token is available.
 
-* Write a static `main` method for your `StringTokenizer` class, which receives two command line arguments and then checks whether your `StringTokenizer` class and the `StringTokenizer class` in the Java Util library behave the same way: create two objects of the two classes, with the first command line argument as the specified string (i.e., `str`) and the second one as the delimiter string (i.e., `delim`), and then check whether their `nextToken()` methods return the same sequence of tokens. 
-
-   The program should print out nothing if they generate the same sequence of tokens. Otherwise, it prints out the pair of tokens on which two classes degree for the first time. Note that if you create a correct StringTokenizer, it will always print out nothing. For any invalid command line argument, the program prints out “Invalid arguments” and then terminates (16 points).
+* Write a static `main` method for your `StringTokenizer` class, which receives two command line arguments and then checks whether your `StringTokenizer` class and the `StringTokenizer class` in the Java Util library behave the same way: create two objects of the two classes, with the first command line argument as the specified string (i.e., `str`) and the second one as the delimiter string (i.e., `delim`), and then check whether their `nextToken()` methods return the same sequence of tokens. The program should print out nothing if they generate the same sequence of tokens. Otherwise, it prints out the pair of tokens on which two classes degree for the first time. Note that if you create a correct StringTokenizer, it will always print out nothing. For any invalid command line argument, the program prints out “Invalid arguments” and then terminates (16 points).
 
 
