@@ -42,6 +42,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [JIPP: Ch. 6. More on Objects and Methods (Oct 12) ](notes/Ch6.pdf)
 * [Midterm exam (Oct 19)](notes/midterm.md)
 * [JIPP: Ch. 7. Array (Oct 16, Oct 23)](notes/Ch7.pdf)
+* Linked List of Strings (Oct 26)
+	- StringList: [StringList.java](StringList.java), [Node](Node.java), [Iterator](Iterator.java), [Main.java](Main.java)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
