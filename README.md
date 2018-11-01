@@ -28,7 +28,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 #### Meeting Notes ####
 * [Course overview and policies (Aug 28)](notes/syllabus.pdf)
 * [Lab 1. Hello, Java World! (Aug 31)](lab1/README.md)
-* [JIPP:Ch. 2. Basic operation of Java (Sep 4, 11)](notes/Ch2.pdf)
+* [JIPP:Ch. 2. Basic operation of Java (Sep 4, Sep 11)](notes/Ch2.pdf)
 * [Lab 2. Play String (Sep 14, Sep 18)](lab2/README.md)
 * [JIPP:Ch. 3 & 4. Programming Control Flow (Sep 21)](notes/control-flow.pdf)
 * [Lab 3. Take Control (Sep 21)](lab3/README.md)
@@ -39,6 +39,11 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * StringTokenizer and Hangul Encoding in Java (Oct 9)
 	- StringTokenizer: [javadoc](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html), [example](examples/StrTok.java)
 	- [Hangual Encoding in Java](notes/hangul.pdf)
+* [JIPP: Ch. 6. More on Objects and Methods (Oct 12) ](notes/Ch6.pdf)
+* [Midterm exam (Oct 19)](notes/midterm.md)
+* [JIPP: Ch. 7. Array (Oct 16, Oct 23)](notes/Ch7.pdf)
+* Linked List of Strings (Oct 26)
+	- StringList: [StringList.java](StringList.java), [Node](Node.java), [Iterator](Iterator.java), [Main.java](Main.java)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
