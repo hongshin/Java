@@ -13,7 +13,7 @@ class MyDrawing extends JPanel
 
 public class Main
 {
-	public static Figure [] figures = new Figure[3] ;
+	public static Figure [] figures = new Figure[4] ;
 
 	public static void main(String [] args) 
 	{
@@ -27,6 +27,7 @@ public class Main
 		figures[0] = new Triangle(p1, p2, p3, "A") ;
 		figures[1] = new Square(p4, 30, "B") ;
 		figures[2] = new Circle(p5, 15, "C") ;
+		figures[3] = new Circle(p1, 20, "D") ;
 
 		Scanner in = new Scanner(System.in) ;
 		JFrame frame = new JFrame("Figures") ;

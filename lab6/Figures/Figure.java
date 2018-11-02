@@ -13,6 +13,7 @@ public class Figure
 
 	public void draw(Graphics g) 
 	{
+		g.drawString(label, centroid.x, centroid.y) ;
 	}
 
 	public void rotate(double a)

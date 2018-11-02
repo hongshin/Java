@@ -14,6 +14,6 @@ public class Circle extends Figure
 	public void draw(Graphics g)
 	{
 		g.drawOval(centroid.x - radius, centroid.y - radius, radius * 2, radius * 2) ;
-		g.drawString(label, centroid.x, centroid.y) ;
+		super.draw(g) ;
 	}
 }

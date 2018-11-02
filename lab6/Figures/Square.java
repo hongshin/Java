@@ -20,6 +20,6 @@ public class Square extends Figure
 		g.drawLine(vertexes[1].x, vertexes[1].y, vertexes[2].x, vertexes[2].y) ;
 		g.drawLine(vertexes[2].x, vertexes[2].y, vertexes[3].x, vertexes[3].y) ;
 		g.drawLine(vertexes[3].x, vertexes[3].y, vertexes[0].x, vertexes[0].y) ;
-		g.drawString(label, centroid.x, centroid.y) ;
+		super.draw(g) ;
 	}
 }
