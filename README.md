@@ -44,7 +44,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [JIPP: Ch. 7. Array (Oct 16, Oct 23)](notes/Ch7.pdf)
 * Linked List of Strings (Oct 26)
 	- StringList: [StringList.java](StringList.java), [Node](Node.java), [Iterator](Iterator.java), [Main.java](Main.java)
-
+* [Lab 6. Build Family (Nov 2)](lab6)
+	
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
 * [*Software Construction*, MIT](http://web.mit.edu/6.005/www/fa15/)
