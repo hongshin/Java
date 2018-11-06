@@ -47,8 +47,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [JIPP: Ch. 8. Class Inheritance and Polymorphism (Oct 30)](notes/Ch8-InheritancePolymorphism.pdf)
 * [Lab 6. Build Family (Nov 2)](lab6)
 * Linked Lists (Nov 6)
-	- UniqueList
-	- River-crossing puzzle
+	- [UniqueList](examples/UniqueList)
+	- [River-crossing puzzle](examples/RiverCross)
 	
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
