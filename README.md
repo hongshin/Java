@@ -46,6 +46,9 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- StringList: [StringList.java](StringList.java), [Node](Node.java), [Iterator](Iterator.java), [Main.java](Main.java)
 * [JIPP: Ch. 8. Class Inheritance and Polymorphism (Oct 30)](notes/Ch8-InheritancePolymorphism.pdf)
 * [Lab 6. Build Family (Nov 2)](lab6)
+* Linked Lists (Nov 6)
+	- UniqueList
+	- River-crossing puzzle
 	
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
