@@ -49,7 +49,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * Linked Lists (Nov 6)
 	- [UniqueList](examples/UniqueList)
 	- [River-crossing puzzle](examples/RiverCross)
-	
+* [Lab 7: Explore States](notes/cw7.pdf)
+
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
 * [*Software Construction*, MIT](http://web.mit.edu/6.005/www/fa15/)
