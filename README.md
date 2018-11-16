@@ -50,6 +50,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- [UniqueList](examples/UniqueList)
 	- [River-crossing puzzle](examples/RiverCross)
 * [Lab 7: Explore States](notes/cw7.pdf)
+* [Lab 8: Try to Catch](notes/cw8.pdf)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
