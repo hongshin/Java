@@ -51,6 +51,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- [River-crossing puzzle](examples/RiverCross)
 * [Lab 7: Explore States](notes/cw7.pdf)
 * [Lab 8: Try to Catch](notes/cw8.pdf)
+* [Lab 9: Show and Listen](notes/cw9.pdf)
+	- [HelloGoodbye Examples](examples/GUI)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
