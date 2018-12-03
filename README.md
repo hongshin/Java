@@ -49,10 +49,15 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * Linked Lists (Nov 6)
 	- [UniqueList](examples/UniqueList)
 	- [River-crossing puzzle](examples/RiverCross)
-* [Lab 7: Explore States](notes/cw7.pdf)
-* [Lab 8: Try to Catch](notes/cw8.pdf)
-* [Lab 9: Show and Listen](notes/cw9.pdf)
+* [Lab 7: Explore States (Nov 9)](notes/cw7.pdf)
+* [JIPP: Exception Handling (Nov 13)]()
+* [Lab 8: Try to Catch (Nov 16, Nov 20)](notes/cw8.pdf)
+	- [M15. Priority Queue with Min-Heap](examples/MinHeap)
+* Java Swing for Graphic User Interface (Nov 23, Nov 26)
 	- [HelloGoodbye Examples](examples/GUI)
+* [Lab 9: Show and Listen (Nov 30)](notes/cw9.pdf)
+* [JIPP: Ch. 12. Java Collection (Dec 4)]()
+	- [MinHeap with Type Parameter](examples/MinHeapGenetric)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
