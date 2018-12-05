@@ -58,7 +58,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- [HelloGoodbye Examples](examples/GUI)
 * [Lab 9: Show and Listen (Nov 30)](notes/cw9.pdf)
 * [JIPP: Ch. 12. Java Collection (Dec 4)]()
-	- [MinHeap with Type Parameter](examples/MinHeapGenetric)
+	- [Linked List with Type Parameter](examples/LinkedListGenetric)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
