@@ -59,7 +59,8 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Lab 9: Show and Listen (Nov 30)](notes/cw9.pdf)
 * [JIPP: Ch. 12. Java Collection (Dec 4)]()
 	- [Linked List with Type Parameter](examples/LinkedListGenetric)
-* [Lab 10. Minesweeper](lab10)
+* [Lab 10. Sweep Mines](lab10/cw10.pdf)
+	- [Minesweeper](lab10)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
