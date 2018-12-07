@@ -43,14 +43,12 @@ public class Board
 		counts = new int[9][9] ;
 		uncovered = new boolean[9][9] ;
 
-		try {
+		//try {
 			// TODO
-			}
-			in.close() ;
-		}
-		catch (IOException e) {
-			System.exit(1) ;
-		}
+		//}
+		//catch (IOException e) {
+		//	System.exit(1) ;
+		//}
 	}
 
 	public void click(int y, int  x) 
