@@ -58,7 +58,7 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 	- [HelloGoodbye Examples](examples/GUI)
 * [Lab 9: Show and Listen (Nov 30)](notes/cw9.pdf)
 * JIPP: Ch. 12. Java Collection (Dec 4)
-	- [Linked List with Type Parameter](examples/LinkedListGenetric)
+	- [Linked List with Type Parameter](examples/LinkedListGeneric)
 * [Lab 10. Sweep Mines](lab10/cw10.pdf)
 	- [Minesweeper](lab10)
 
