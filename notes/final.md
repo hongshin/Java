@@ -1,7 +1,7 @@
 1. Explain how array of Java is different from array of C (10 points)
-2. Write a static method `createStrCube` which receives 3 integers `x`, `y`, `z` and 
-   returns a 3-dimensional String array which contains  *x*⨉*y*⨉*z* number of empty string objects 
-   (i.e., `length()` returns 0). (6 points)
+2. Write a static method `createStrCube` which receives 3 integers `X`, `Y`, `Z` and 
+   returns a 3-dimensional String array which contains  *X* ⨉ *Y* ⨉ *Z* number of empty string objects 
+   (i.e., `length` returns 0). (6 points)
 3. Explain why Java has the Interface mechanism, while it provides Class extension to construct 
    Class hierarchies (9 points)
 4. Give a Java program example with an execution scenario that exemplify dynamic binding of Java method. (10 points)
