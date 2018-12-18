@@ -59,8 +59,11 @@ You can find this book at Handong Books which is on campus.  It is **mandatory**
 * [Lab 9: Show and Listen (Nov 30)](notes/cw9.pdf)
 * JIPP: Ch. 12. Java Collection (Dec 4)
 	- [Linked List with Type Parameter](examples/LinkedListGeneric)
-* [Lab 10. Sweep Mines](lab10/cw10.pdf)
+* [Lab 10. Sweep Mines (Dec 7)](lab10/cw10.pdf)
 	- [Minesweeper](lab10)
+* Final Exam (Dec 14)
+	- [Written test](notes/final.md)
+	- [Programming test](notes/Java-programming-test.pdf)
 
 #### Related Courses ####
 Examples, case studies, reading materials of the following related courseworks will be partly used in the class:
