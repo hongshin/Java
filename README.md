@@ -1,4 +1,6 @@
-## Java Programming: Elements of Problem Solving and Software Design #
+## Java Programming: Elements of Problem Solving and Software Desig
+
+g
 
 ### Class Information ###
 * Meetings: **Tue** 10AM-11:15AM (1.5h) & **Fri** 9AM-11:15AM (2.5h) in NTH 412
